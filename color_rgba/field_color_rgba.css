@@ -1,0 +1,12 @@
+.redux-main .redux-color-rgba-container .iris-picker .iris-slider-offset{
+	position: absolute;
+    top: 11px;
+    left: 0;
+    right: 0;
+    bottom: -3px;
+    width: auto;
+    height: auto;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+}
